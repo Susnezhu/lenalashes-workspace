@@ -20,6 +20,7 @@ The application will be designed specifically for smartphone use because employe
 * Organize weekly cleaning responsibilities.
 * Provide a simple manual bonus system.
 * Create a mobile experience suitable for both iPhone and Android
+* Make language settings for multilanguage team
 
 ### Secondary goals
 * Keep the interface simple for a small team.
@@ -88,9 +89,9 @@ Employees access the application through a web browser and can add it to their d
 
 ## 7. Development Plan
 
-1. Project plan and docs
-2. Project setup
-3. Database and backend
+1. Project plan and docs - done
+2. Project setup - done
+3. Database and backend - in progress
 4. Authentication and user roles
 5. Main UI and navigation
 6. Core features
