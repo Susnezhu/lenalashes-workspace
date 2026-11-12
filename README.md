@@ -49,7 +49,7 @@ The project is currently in the planning stage.
 
 Development will be divided into smaller features and added in stages.
 
-See [Project Plan](docs/project*plan.md) for the current development plan.
+See [Project Plan](docs/project_plan.md) for the current development plan.
 
 ## Tech Stack
 
@@ -60,6 +60,7 @@ See [Project Plan](docs/project*plan.md) for the current development plan.
 * Vite
 * MUI
 * PWA
+* i18next
 
 ### Backend
 
@@ -67,6 +68,8 @@ See [Project Plan](docs/project*plan.md) for the current development plan.
 * Express
 * TypeScript
 * REST API
+* Argon2 — password hashing
+* JSON Web Token (JWT)
 
 ### Database
 

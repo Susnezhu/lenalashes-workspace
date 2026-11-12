@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { registerSW } from 'virtual:pwa-register'
 import { ThemeProvider } from '@mui/material/styles'
 import { theme } from './theme/theme'
+import './i18n'
 import App from './App.tsx'
 
 registerSW({ immediate: true })

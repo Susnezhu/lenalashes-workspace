@@ -65,6 +65,7 @@ See [Features](docs/features.md) for more details.
 * Vite
 * MUI
 * PWA
+* i18next
 
 ### Backend
 
@@ -72,6 +73,8 @@ See [Features](docs/features.md) for more details.
 * Express
 * TypeScript
 * REST API
+* Argon2 — password hashing
+* JSON Web Token (JWT)
 
 ### Database
 

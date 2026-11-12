@@ -23,6 +23,7 @@ frontend/
 * Vite
 * MUI
 * PWA
+* i18next
 
 ### Installation / Running / Build
 

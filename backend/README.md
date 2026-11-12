@@ -18,6 +18,8 @@ backend/
 * Express
 * TypeScript
 * REST API
+* Argon2 — password hashing
+* JSON Web Token (JWT)
 
 ### Installation / Running / Build
 
